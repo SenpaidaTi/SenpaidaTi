@@ -1,5 +1,5 @@
 
-## Ola Me Chamo Donny-Hans, Sou Desenvolver Web Junior!
+## Olá Me Chamo Donny-Hans, Sou Desenvolver Web Junior!
 <div align="center">
   <a href="https://github.com/SenpaidaTi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SenpaidaTi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
